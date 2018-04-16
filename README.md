@@ -16,10 +16,10 @@
 
 <p>Control panel allows user to change Earth's x and y rotations.</p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
+<img src="https://user-images.githubusercontent.com/12107707/38817030-c5395156-4197-11e8-9e62-e605b612f946.gif"  width="700"/>
 </p>
 
 <p>User can click and grab screen to move it around.</p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
+<img src="https://user-images.githubusercontent.com/12107707/38817031-c57cdf2a-4197-11e8-81da-a27eab31a857.gif"  width="700"/>
 </p>
