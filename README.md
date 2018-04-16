@@ -14,12 +14,12 @@
 
 ### Key Features
 
-<p>Control Panel to change x and y rotation</p>
+<p>Control panel allows user to change Earth's x and y rotations.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
 </p>
 
-<p>Can click and grab screen to move it around.</p>
+<p>User can click and grab screen to move it around.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
 </p>
