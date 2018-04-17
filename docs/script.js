@@ -39,7 +39,7 @@ scene.add(pivot);
 //TextGeometry
 var loader = new THREE.FontLoader();
 
-loader.load("/assets/fonts/helvetiker_bold.typeface.json", function(font) {
+loader.load("assets/fonts/helvetiker_bold.typeface.json", function(font) {
     var textMaterial = new THREE.MeshNormalMaterial();
     var textGeometry = new THREE.TextGeometry("Hello, World!", {
         font: font,
