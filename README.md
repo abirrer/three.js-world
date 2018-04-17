@@ -6,7 +6,7 @@
 
 ### Website
 
-<p>include github hosting page</p>
+<p>https://abirrer.github.io/three.js-world/</p>
 
 ### Technologies Used
 
